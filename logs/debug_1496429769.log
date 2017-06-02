@@ -1,0 +1,156 @@
+2017-06-02 21:56:09,822 - webmonitor - DEBUG - MONITOR CYCLE: 1
+2017-06-02 21:56:09,823 - webmonitor - DEBUG - -------------------------------------------------------------------------------
+2017-06-02 21:56:09,825 - webmonitor - DEBUG - 				WEB MONITORING INFO
+2017-06-02 21:56:09,826 - webmonitor - DEBUG - -------------------------------------------------------------------------------
+2017-06-02 21:56:09,828 - webmonitor - DEBUG - [1]. Website: http://google.com | Search String: Google Search
+2017-06-02 21:56:09,831 - webmonitor - DEBUG - Trying to access url http://google.com
+2017-06-02 21:56:10,765 - webmonitor - DEBUG - HTML STATUS: 200
+2017-06-02 21:56:10,766 - webmonitor - DEBUG - Website - http://google.com - is accessible
+2017-06-02 21:56:10,767 - webmonitor - ERROR - Search string - Google Search - not found in url - http://google.com
+2017-06-02 21:56:10,769 - webmonitor - DEBUG - Time taken in microseconds - 940
+2017-06-02 21:56:10,772 - webmonitor - DEBUG - -------------------------------------------------------------------------------
+2017-06-02 21:56:10,773 - webmonitor - DEBUG - [2]. Website: http://mail.yahoo.com | Search String: Sign in
+2017-06-02 21:56:10,775 - webmonitor - DEBUG - Trying to access url http://mail.yahoo.com
+2017-06-02 21:56:11,826 - webmonitor - DEBUG - HTML STATUS: 200
+2017-06-02 21:56:11,828 - webmonitor - DEBUG - Website - http://mail.yahoo.com - is accessible
+2017-06-02 21:56:11,828 - webmonitor - DEBUG - Search string - Sign in - found in url - http://mail.yahoo.com
+2017-06-02 21:56:11,831 - webmonitor - DEBUG - Time taken in microseconds - 56
+2017-06-02 21:56:11,832 - webmonitor - DEBUG - -------------------------------------------------------------------------------
+2017-06-02 21:56:11,835 - webmonitor - DEBUG - [3]. Website: http://google.com | Search String: Sign in
+2017-06-02 21:56:11,838 - webmonitor - DEBUG - Trying to access url http://google.com
+2017-06-02 21:56:12,739 - webmonitor - DEBUG - HTML STATUS: 200
+2017-06-02 21:56:12,740 - webmonitor - DEBUG - Website - http://google.com - is accessible
+2017-06-02 21:56:12,740 - webmonitor - ERROR - Search string - Sign in - not found in url - http://google.com
+2017-06-02 21:56:12,743 - webmonitor - DEBUG - Time taken in microseconds - 904
+2017-06-02 21:56:12,744 - webmonitor - DEBUG - -------------------------------------------------------------------------------
+2017-06-02 21:56:12,746 - webmonitor - DEBUG - [4]. Website: http://google.com | Search String: Please login
+2017-06-02 21:56:12,749 - webmonitor - DEBUG - Trying to access url http://google.com
+2017-06-02 21:56:13,653 - webmonitor - DEBUG - HTML STATUS: 200
+2017-06-02 21:56:13,654 - webmonitor - DEBUG - Website - http://google.com - is accessible
+2017-06-02 21:56:13,654 - webmonitor - ERROR - Search string - Please login - not found in url - http://google.com
+2017-06-02 21:56:13,657 - webmonitor - DEBUG - Time taken in microseconds - 908
+2017-06-02 21:56:13,657 - webmonitor - DEBUG - -------------------------------------------------------------------------------
+2017-06-02 21:56:13,660 - webmonitor - DEBUG - [5]. Website: http://mail.yahoo.com | Search String: Google Search
+2017-06-02 21:56:13,661 - webmonitor - DEBUG - Trying to access url http://mail.yahoo.com
+2017-06-02 21:56:14,496 - webmonitor - DEBUG - HTML STATUS: 200
+2017-06-02 21:56:14,497 - webmonitor - DEBUG - Website - http://mail.yahoo.com - is accessible
+2017-06-02 21:56:14,500 - webmonitor - ERROR - Search string - Google Search - not found in url - http://mail.yahoo.com
+2017-06-02 21:56:14,500 - webmonitor - DEBUG - Time taken in microseconds - 839
+2017-06-02 21:56:14,506 - webmonitor - DEBUG - -------------------------------------------------------------------------------
+2017-06-02 21:56:14,506 - webmonitor - DEBUG - [6]. Website: http://http://sdfasdfadfsdfa.com | Search String: Please login
+2017-06-02 21:56:14,509 - webmonitor - DEBUG - Trying to access url http://http://sdfasdfadfsdfa.com
+2017-06-02 21:56:16,801 - webmonitor - ERROR - Website - http://http://sdfasdfadfsdfa.com - is not accessible. Please check...
+2017-06-02 21:56:16,802 - webmonitor - ERROR - [Errno 11001] getaddrinfo failed
+2017-06-02 21:56:16,805 - webmonitor - DEBUG - Time taken in microseconds - 296
+2017-06-02 21:56:16,805 - webmonitor - DEBUG - -------------------------------------------------------------------------------
+2017-06-02 21:56:16,806 - webmonitor - DEBUG - [7]. Website: http://www.kela.fi | Search String: ASIOINTIPALVELU
+2017-06-02 21:56:16,809 - webmonitor - DEBUG - Trying to access url http://www.kela.fi
+2017-06-02 21:56:17,413 - webmonitor - DEBUG - HTML STATUS: 200
+2017-06-02 21:56:17,414 - webmonitor - DEBUG - Website - http://www.kela.fi - is accessible
+2017-06-02 21:56:17,414 - webmonitor - DEBUG - Search string - ASIOINTIPALVELU - found in url - http://www.kela.fi
+2017-06-02 21:56:17,417 - webmonitor - DEBUG - Time taken in microseconds - 608
+2017-06-02 21:56:17,418 - webmonitor - DEBUG - -------------------------------------------------------------------------------
+2017-06-02 21:57:10,428 - webmonitor - DEBUG - MONITOR CYCLE: 2
+2017-06-02 21:57:10,430 - webmonitor - DEBUG - -------------------------------------------------------------------------------
+2017-06-02 21:57:10,430 - webmonitor - DEBUG - 				WEB MONITORING INFO
+2017-06-02 21:57:10,430 - webmonitor - DEBUG - -------------------------------------------------------------------------------
+2017-06-02 21:57:10,431 - webmonitor - DEBUG - [1]. Website: http://google.com | Search String: Google Search
+2017-06-02 21:57:10,431 - webmonitor - DEBUG - Trying to access url http://google.com
+2017-06-02 21:57:10,611 - webmonitor - DEBUG - HTML STATUS: 200
+2017-06-02 21:57:10,611 - webmonitor - DEBUG - Website - http://google.com - is accessible
+2017-06-02 21:57:10,612 - webmonitor - ERROR - Search string - Google Search - not found in url - http://google.com
+2017-06-02 21:57:10,614 - webmonitor - DEBUG - Time taken in microseconds - 182
+2017-06-02 21:57:10,614 - webmonitor - DEBUG - -------------------------------------------------------------------------------
+2017-06-02 21:57:10,615 - webmonitor - DEBUG - [2]. Website: http://mail.yahoo.com | Search String: Sign in
+2017-06-02 21:57:10,615 - webmonitor - DEBUG - Trying to access url http://mail.yahoo.com
+2017-06-02 21:57:11,448 - webmonitor - DEBUG - HTML STATUS: 200
+2017-06-02 21:57:11,450 - webmonitor - DEBUG - Website - http://mail.yahoo.com - is accessible
+2017-06-02 21:57:11,450 - webmonitor - DEBUG - Search string - Sign in - found in url - http://mail.yahoo.com
+2017-06-02 21:57:11,451 - webmonitor - DEBUG - Time taken in microseconds - 837
+2017-06-02 21:57:11,451 - webmonitor - DEBUG - -------------------------------------------------------------------------------
+2017-06-02 21:57:11,453 - webmonitor - DEBUG - [3]. Website: http://google.com | Search String: Sign in
+2017-06-02 21:57:11,453 - webmonitor - DEBUG - Trying to access url http://google.com
+2017-06-02 21:57:11,805 - webmonitor - DEBUG - HTML STATUS: 200
+2017-06-02 21:57:11,805 - webmonitor - DEBUG - Website - http://google.com - is accessible
+2017-06-02 21:57:11,806 - webmonitor - ERROR - Search string - Sign in - not found in url - http://google.com
+2017-06-02 21:57:11,812 - webmonitor - DEBUG - Time taken in microseconds - 358
+2017-06-02 21:57:11,815 - webmonitor - DEBUG - -------------------------------------------------------------------------------
+2017-06-02 21:57:11,819 - webmonitor - DEBUG - [4]. Website: http://google.com | Search String: Please login
+2017-06-02 21:57:11,823 - webmonitor - DEBUG - Trying to access url http://google.com
+2017-06-02 21:57:11,976 - webmonitor - DEBUG - HTML STATUS: 200
+2017-06-02 21:57:11,976 - webmonitor - DEBUG - Website - http://google.com - is accessible
+2017-06-02 21:57:11,977 - webmonitor - ERROR - Search string - Please login - not found in url - http://google.com
+2017-06-02 21:57:11,982 - webmonitor - DEBUG - Time taken in microseconds - 158
+2017-06-02 21:57:11,986 - webmonitor - DEBUG - -------------------------------------------------------------------------------
+2017-06-02 21:57:11,990 - webmonitor - DEBUG - [5]. Website: http://mail.yahoo.com | Search String: Google Search
+2017-06-02 21:57:11,996 - webmonitor - DEBUG - Trying to access url http://mail.yahoo.com
+2017-06-02 21:57:12,888 - webmonitor - DEBUG - HTML STATUS: 200
+2017-06-02 21:57:12,888 - webmonitor - DEBUG - Website - http://mail.yahoo.com - is accessible
+2017-06-02 21:57:12,891 - webmonitor - ERROR - Search string - Google Search - not found in url - http://mail.yahoo.com
+2017-06-02 21:57:12,894 - webmonitor - DEBUG - Time taken in microseconds - 899
+2017-06-02 21:57:12,898 - webmonitor - DEBUG - -------------------------------------------------------------------------------
+2017-06-02 21:57:12,903 - webmonitor - DEBUG - [6]. Website: http://http://sdfasdfadfsdfa.com | Search String: Please login
+2017-06-02 21:57:12,907 - webmonitor - DEBUG - Trying to access url http://http://sdfasdfadfsdfa.com
+2017-06-02 21:57:15,164 - webmonitor - ERROR - Website - http://http://sdfasdfadfsdfa.com - is not accessible. Please check...
+2017-06-02 21:57:15,164 - webmonitor - ERROR - [Errno 11001] getaddrinfo failed
+2017-06-02 21:57:15,165 - webmonitor - DEBUG - Time taken in microseconds - 259
+2017-06-02 21:57:15,171 - webmonitor - DEBUG - -------------------------------------------------------------------------------
+2017-06-02 21:57:15,174 - webmonitor - DEBUG - [7]. Website: http://www.kela.fi | Search String: ASIOINTIPALVELU
+2017-06-02 21:57:15,178 - webmonitor - DEBUG - Trying to access url http://www.kela.fi
+2017-06-02 21:57:15,834 - webmonitor - DEBUG - HTML STATUS: 200
+2017-06-02 21:57:15,835 - webmonitor - DEBUG - Website - http://www.kela.fi - is accessible
+2017-06-02 21:57:15,835 - webmonitor - DEBUG - Search string - ASIOINTIPALVELU - found in url - http://www.kela.fi
+2017-06-02 21:57:15,841 - webmonitor - DEBUG - Time taken in microseconds - 662
+2017-06-02 21:57:15,845 - webmonitor - DEBUG - -------------------------------------------------------------------------------
+2017-06-02 21:58:10,852 - webmonitor - DEBUG - MONITOR CYCLE: 3
+2017-06-02 21:58:10,854 - webmonitor - DEBUG - -------------------------------------------------------------------------------
+2017-06-02 21:58:10,855 - webmonitor - DEBUG - 				WEB MONITORING INFO
+2017-06-02 21:58:10,859 - webmonitor - DEBUG - -------------------------------------------------------------------------------
+2017-06-02 21:58:10,864 - webmonitor - DEBUG - [1]. Website: http://google.com | Search String: Google Search
+2017-06-02 21:58:10,868 - webmonitor - DEBUG - Trying to access url http://google.com
+2017-06-02 21:58:11,026 - webmonitor - DEBUG - HTML STATUS: 200
+2017-06-02 21:58:11,026 - webmonitor - DEBUG - Website - http://google.com - is accessible
+2017-06-02 21:58:11,028 - webmonitor - ERROR - Search string - Google Search - not found in url - http://google.com
+2017-06-02 21:58:11,032 - webmonitor - DEBUG - Time taken in microseconds - 164
+2017-06-02 21:58:11,036 - webmonitor - DEBUG - -------------------------------------------------------------------------------
+2017-06-02 21:58:11,043 - webmonitor - DEBUG - [2]. Website: http://mail.yahoo.com | Search String: Sign in
+2017-06-02 21:58:11,045 - webmonitor - DEBUG - Trying to access url http://mail.yahoo.com
+2017-06-02 21:58:11,834 - webmonitor - DEBUG - HTML STATUS: 200
+2017-06-02 21:58:11,835 - webmonitor - DEBUG - Website - http://mail.yahoo.com - is accessible
+2017-06-02 21:58:11,835 - webmonitor - DEBUG - Search string - Sign in - found in url - http://mail.yahoo.com
+2017-06-02 21:58:11,839 - webmonitor - DEBUG - Time taken in microseconds - 795
+2017-06-02 21:58:11,845 - webmonitor - DEBUG - -------------------------------------------------------------------------------
+2017-06-02 21:58:11,848 - webmonitor - DEBUG - [3]. Website: http://google.com | Search String: Sign in
+2017-06-02 21:58:11,852 - webmonitor - DEBUG - Trying to access url http://google.com
+2017-06-02 21:58:12,002 - webmonitor - DEBUG - HTML STATUS: 200
+2017-06-02 21:58:12,003 - webmonitor - DEBUG - Website - http://google.com - is accessible
+2017-06-02 21:58:12,007 - webmonitor - ERROR - Search string - Sign in - not found in url - http://google.com
+2017-06-02 21:58:12,009 - webmonitor - DEBUG - Time taken in microseconds - 156
+2017-06-02 21:58:12,013 - webmonitor - DEBUG - -------------------------------------------------------------------------------
+2017-06-02 21:58:12,017 - webmonitor - DEBUG - [4]. Website: http://google.com | Search String: Please login
+2017-06-02 21:58:12,022 - webmonitor - DEBUG - Trying to access url http://google.com
+2017-06-02 21:58:12,164 - webmonitor - DEBUG - HTML STATUS: 200
+2017-06-02 21:58:12,165 - webmonitor - DEBUG - Website - http://google.com - is accessible
+2017-06-02 21:58:12,167 - webmonitor - ERROR - Search string - Please login - not found in url - http://google.com
+2017-06-02 21:58:12,171 - webmonitor - DEBUG - Time taken in microseconds - 150
+2017-06-02 21:58:12,174 - webmonitor - DEBUG - -------------------------------------------------------------------------------
+2017-06-02 21:58:12,180 - webmonitor - DEBUG - [5]. Website: http://mail.yahoo.com | Search String: Google Search
+2017-06-02 21:58:12,184 - webmonitor - DEBUG - Trying to access url http://mail.yahoo.com
+2017-06-02 21:58:13,030 - webmonitor - DEBUG - HTML STATUS: 200
+2017-06-02 21:58:13,032 - webmonitor - DEBUG - Website - http://mail.yahoo.com - is accessible
+2017-06-02 21:58:13,033 - webmonitor - ERROR - Search string - Google Search - not found in url - http://mail.yahoo.com
+2017-06-02 21:58:13,036 - webmonitor - DEBUG - Time taken in microseconds - 853
+2017-06-02 21:58:13,042 - webmonitor - DEBUG - -------------------------------------------------------------------------------
+2017-06-02 21:58:13,046 - webmonitor - DEBUG - [6]. Website: http://http://sdfasdfadfsdfa.com | Search String: Please login
+2017-06-02 21:58:13,049 - webmonitor - DEBUG - Trying to access url http://http://sdfasdfadfsdfa.com
+2017-06-02 21:58:15,306 - webmonitor - ERROR - Website - http://http://sdfasdfadfsdfa.com - is not accessible. Please check...
+2017-06-02 21:58:15,308 - webmonitor - ERROR - [Errno 11001] getaddrinfo failed
+2017-06-02 21:58:15,309 - webmonitor - DEBUG - Time taken in microseconds - 259
+2017-06-02 21:58:15,312 - webmonitor - DEBUG - -------------------------------------------------------------------------------
+2017-06-02 21:58:15,316 - webmonitor - DEBUG - [7]. Website: http://www.kela.fi | Search String: ASIOINTIPALVELU
+2017-06-02 21:58:15,322 - webmonitor - DEBUG - Trying to access url http://www.kela.fi
+2017-06-02 21:58:15,927 - webmonitor - DEBUG - HTML STATUS: 200
+2017-06-02 21:58:15,927 - webmonitor - DEBUG - Website - http://www.kela.fi - is accessible
+2017-06-02 21:58:15,928 - webmonitor - DEBUG - Search string - ASIOINTIPALVELU - found in url - http://www.kela.fi
+2017-06-02 21:58:15,933 - webmonitor - DEBUG - Time taken in microseconds - 611
+2017-06-02 21:58:15,937 - webmonitor - DEBUG - -------------------------------------------------------------------------------
